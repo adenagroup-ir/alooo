@@ -1,4 +1,3 @@
-```yaml id="vknzy0"
 name: alarm
 
 on:
@@ -34,4 +33,3 @@ jobs:
           git commit -m "alarm"
 
           git push
-```
